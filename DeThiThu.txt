@@ -1,0 +1,29 @@
+1.Tạo router (0.5đ)
+- Hiển thị toàn bộ sản phẩm - /products
+- Hiển thị chi tiết sản phẩm - /products/:id
+- Thêm sản phẩm - /products
+- Cập nhật sản phẩm - /products/:id
+- Xoá sản phẩm - /products/:id
+- Đăng ký - /signup
+- Đăng nhập - /signin
+2. Xây dựng api lấy toàn bộ sản phẩm (0.5đ)
+3. Xây dựng api lấy chi tiết sản phẩm (0.5đ)
+4. Xây dựng api thêm mới sản phẩm
+- validate dữ liệu và hiển thị thông báo lỗi (0.5đ)
+- thêm sản phẩm vào DB (1đ)
+response lại data kèm message thông báo (0.5đ)
+5. Xây dựng api cập nhật sản phẩm
+- validate dữ liệu và hiển thị thông báo lỗi (0.5đ)
+- cập nhật sản phẩm vào DB (1đ)
+- response lại data kèm message thông báo (0.5đ)
+6. Xây dựng api xoá sản phẩm
+- Xoá sản phẩm thành công (1đ)
+- response lại sản phẩm vừa xoá kèm message thông báo (0.5đ)
+7. Đăng ký (1đ)
+- validate và hiển thị thông báo lỗi
+- thêm thành công user vào DB
+- response lại data kèm message thông báo
+8. Đăng nhập (1đ)
+- validate và hiển thị thông báo lỗi
+- tạo token và response khi user đăng nhập thành công
+9. Check quyền khi thực hiện thêm, sửa, xoá data (1đ)
